@@ -1,2 +1,2 @@
-# fmi.crypto.group
+# FMI Crypto Group
 Slides
